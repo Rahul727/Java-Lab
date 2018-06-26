@@ -1,0 +1,12 @@
+RUN ::
+
+enter R of Circle
+10
+area of Circle is = 314.0
+area of Triangle is = 25.0
+area of cube is = 343.0
+area of sphere is = 188.4
+this id 3D
+this id 2D
+
+BUILD SUCCESSFUL (total time: 2 seconds)
